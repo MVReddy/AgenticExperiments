@@ -1,0 +1,9 @@
+# Requires: Python >= 3.10
+# All 10 experiments run on the standard library only — nothing to install.
+# Optional dependencies if you want to extend the experiments with the real frameworks:
+# crewai>=0.100        # real CrewAI crews (experiment 07)
+# langgraph>=0.2        # real LangGraph graphs with checkpointers (experiment 08)
+# smolagents>=1.0       # real smolagents CodeAgent (experiment 09)
+# pydantic-ai>=0.1      # typed agents (experiments 03, 07)
+# google-adk>=1.0       # Google Agent Development Kit (experiments 01-03)
+# openai-agents>=0.1    # OpenAI Agents SDK (experiments 01-03)
